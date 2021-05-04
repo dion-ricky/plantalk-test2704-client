@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179398843604",
+    "project_id": "plantalk-test2704",
+    "storage_bucket": "plantalk-test2704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179398843604:android:46710e7968bfdb0abfaf41",
+        "android_client_info": {
+          "package_name": "com.example.plantalk_test2704"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179398843604-g6dbodj9pf2flk9drrim7nsgqc0bc6dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJt5slXSqodnODygMkRAHSf2PVcRt9aak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179398843604-g6dbodj9pf2flk9drrim7nsgqc0bc6dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
